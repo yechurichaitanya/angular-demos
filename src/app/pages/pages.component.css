@@ -1,0 +1,5 @@
+li .page-link,
+li .page-item {
+  cursor: pointer;
+}
+
